@@ -1,0 +1,1 @@
+The objective of this lab is to learn about interfacing analog sensors with microcontrollers using A/D converters. We used an ADC chip, MCP3008, to analyze analog signals and examine the characteristics of a signal using an oscilloscope.
