@@ -1,1 +1,2 @@
-The main objective of this lab is to generate waveforms of different shapes and measure them using an oscilloscope (Analog Discovery). The DAC chip was utilized to convert the digital signals from the Raspberry pi into Analog waveforms which were measured by the oscilloscope.
+A few lab assignments for CSCE 462 - Microcomputer Systems.
+An Aggie does not lie, cheat or steal or tolerate those who do.
