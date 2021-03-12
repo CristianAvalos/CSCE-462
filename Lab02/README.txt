@@ -1,1 +1,1 @@
-The goal of this lab was to use a DAC chip to create a wave generator.
+The main objective of this lab is to generate waveforms of different shapes and measure them using an oscilloscope (Analog Discovery). The DAC chip was utilized to convert the digital signals from the Raspberry pi into Analog waveforms which were measured by the oscilloscope.
